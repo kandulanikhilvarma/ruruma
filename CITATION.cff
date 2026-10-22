@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you reference this software, cite this repository."
+type: software
+title: "Ruruma"
+abstract: "A brand website for AI engineering services with a browser-local project brief tool."
+authors:
+  - family-names: "Kandula"
+    given-names: "Nikhilvarma"
+    email: "kandulanikhilvarma@gmail.com"
+repository-code: "https://github.com/kandulanikhilvarma/ruruma"
+url: "https://github.com/kandulanikhilvarma/ruruma"
+license: Apache-2.0
+keywords:
+  - AI engineering
+  - workflow automation
+  - static website
