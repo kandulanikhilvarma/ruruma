@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-22T13:51:50.920Z",
+  "title": "Design System: Ruruma",
+  "extensions": {
+    "colorMeta": {
+      "cream": {
+        "role": "neutral",
+        "displayName": "Warm cream",
+        "tonalRamp": [
+          "oklch(15% 0.0158 102.82)",
+          "oklch(26.43% 0.0158 102.82)",
+          "oklch(37.86% 0.0158 102.82)",
+          "oklch(49.29% 0.0158 102.82)",
+          "oklch(60.71% 0.0158 102.82)",
+          "oklch(72.14% 0.0158 102.82)",
+          "oklch(83.57% 0.0158 102.82)",
+          "oklch(95% 0.0158 102.82)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Near-black ink",
+        "tonalRamp": [
+          "oklch(15% 0.0132 140.45)",
+          "oklch(26.43% 0.0132 140.45)",
+          "oklch(37.86% 0.0132 140.45)",
+          "oklch(49.29% 0.0132 140.45)",
+          "oklch(60.71% 0.0132 140.45)",
+          "oklch(72.14% 0.0132 140.45)",
+          "oklch(83.57% 0.0132 140.45)",
+          "oklch(95% 0.0132 140.45)"
+        ]
+      },
+      "green": {
+        "role": "primary",
+        "displayName": "Forest green",
+        "tonalRamp": [
+          "oklch(15% 0.0604 178.77)",
+          "oklch(26.43% 0.0604 178.77)",
+          "oklch(37.86% 0.0604 178.77)",
+          "oklch(49.29% 0.0604 178.77)",
+          "oklch(60.71% 0.0604 178.77)",
+          "oklch(72.14% 0.0604 178.77)",
+          "oklch(83.57% 0.0604 178.77)",
+          "oklch(95% 0.0604 178.77)"
+        ]
+      },
+      "green-dark": {
+        "role": "primary",
+        "displayName": "Deep forest",
+        "tonalRamp": [
+          "oklch(15% 0.0519 179.42)",
+          "oklch(26.43% 0.0519 179.42)",
+          "oklch(37.86% 0.0519 179.42)",
+          "oklch(49.29% 0.0519 179.42)",
+          "oklch(60.71% 0.0519 179.42)",
+          "oklch(72.14% 0.0519 179.42)",
+          "oklch(83.57% 0.0519 179.42)",
+          "oklch(95% 0.0519 179.42)"
+        ]
+      },
+      "lavender": {
+        "role": "secondary",
+        "displayName": "Soft lavender",
+        "tonalRamp": [
+          "oklch(15% 0.0452 302.52)",
+          "oklch(26.43% 0.0452 302.52)",
+          "oklch(37.86% 0.0452 302.52)",
+          "oklch(49.29% 0.0452 302.52)",
+          "oklch(60.71% 0.0452 302.52)",
+          "oklch(72.14% 0.0452 302.52)",
+          "oklch(83.57% 0.0452 302.52)",
+          "oklch(95% 0.0452 302.52)"
+        ]
+      },
+      "mint": {
+        "role": "neutral",
+        "displayName": "Pale mint",
+        "tonalRamp": [
+          "oklch(15% 0.0217 130.02)",
+          "oklch(26.43% 0.0217 130.02)",
+          "oklch(37.86% 0.0217 130.02)",
+          "oklch(49.29% 0.0217 130.02)",
+          "oklch(60.71% 0.0217 130.02)",
+          "oklch(72.14% 0.0217 130.02)",
+          "oklch(83.57% 0.0217 130.02)",
+          "oklch(95% 0.0217 130.02)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted green-gray",
+        "tonalRamp": [
+          "oklch(15% 0.0253 136.70)",
+          "oklch(26.43% 0.0253 136.70)",
+          "oklch(37.86% 0.0253 136.70)",
+          "oklch(49.29% 0.0253 136.70)",
+          "oklch(60.71% 0.0253 136.70)",
+          "oklch(72.14% 0.0253 136.70)",
+          "oklch(83.57% 0.0253 136.70)",
+          "oklch(95% 0.0253 136.70)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Quiet line",
+        "tonalRamp": [
+          "oklch(15% 0.0196 119.81)",
+          "oklch(26.43% 0.0196 119.81)",
+          "oklch(37.86% 0.0196 119.81)",
+          "oklch(49.29% 0.0196 119.81)",
+          "oklch(60.71% 0.0196 119.81)",
+          "oklch(72.14% 0.0196 119.81)",
+          "oklch(83.57% 0.0196 119.81)",
+          "oklch(95% 0.0196 119.81)"
+        ]
+      },
+      "error": {
+        "role": "state",
+        "displayName": "Error red",
+        "tonalRamp": [
+          "oklch(15% 0.1511 27.77)",
+          "oklch(26.43% 0.1511 27.77)",
+          "oklch(37.86% 0.1511 27.77)",
+          "oklch(49.29% 0.1511 27.77)",
+          "oklch(60.71% 0.1511 27.77)",
+          "oklch(72.14% 0.1511 27.77)",
+          "oklch(83.57% 0.1511 27.77)",
+          "oklch(95% 0.1511 27.77)"
+        ]
+      },
+      "focus": {
+        "role": "state",
+        "displayName": "Focus violet",
+        "tonalRamp": [
+          "oklch(15% 0.1145 300.23)",
+          "oklch(26.43% 0.1145 300.23)",
+          "oklch(37.86% 0.1145 300.23)",
+          "oklch(49.29% 0.1145 300.23)",
+          "oklch(60.71% 0.1145 300.23)",
+          "oklch(72.14% 0.1145 300.23)",
+          "oklch(83.57% 0.1145 300.23)",
+          "oklch(95% 0.1145 300.23)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The large hero statement."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Major section titles."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "The solution result."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Default text and detailed explanations."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Field labels."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Primary action text."
+      }
+    },
+    "shadows": [
+      {
+        "name": "paper-sheet",
+        "value": "7px 14px 22px #2933271b",
+        "purpose": "Paper illustrations only."
+      },
+      {
+        "name": "selected-marker",
+        "value": "0 0 0 4px #cad8c4",
+        "purpose": "The active industry marker."
+      }
+    ],
+    "motion": [
+      {
+        "name": "state-transition",
+        "value": ".18s ease",
+        "purpose": "Color, background, and small control transforms."
+      },
+      {
+        "name": "rosette-turn",
+        "value": "45s linear infinite",
+        "purpose": "One full rotation of the workflow mark."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation:none;transition:none;scroll-behavior:auto",
+        "purpose": "Stop motion when the visitor requests reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1100px"
+      },
+      {
+        "name": "menu-and-stack",
+        "value": "800px"
+      },
+      {
+        "name": "mobile",
+        "value": "520px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "A clear action with an outlined edge.",
+      "html": "<button class=\"ds-button-primary\" type=\"button\">Find your AI opportunity<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 12h15m-6-6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-button-primary{display:inline-flex;align-items:center;justify-content:center;gap:22px;min-height:56px;padding:15px 25px;border:1px solid var(--ink,#20251f);border-radius:8px;font:600 16px/1.35 Figtree,Arial,sans-serif;text-decoration:none;cursor:pointer;transition:background .18s ease,color .18s ease,transform .18s ease;background:var(--lavender,#e1d5f5);color:var(--ink,#20251f);border-color:var(--ink,#20251f)}.ds-button-primary:hover{background:#cfbde9;transform:translateY(-2px)}.ds-button-primary:focus-visible{outline:3px solid var(--focus,#775ba4);outline-offset:5px}.ds-button-primary svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;transition:transform .18s ease}.ds-button-primary:hover svg{transform:translateX(2px)}@media(prefers-reduced-motion:reduce){.ds-button-primary,.ds-button-primary svg{transition:none}}"
+    },
+    {
+      "name": "Dark action",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "A clear action with an outlined edge.",
+      "html": "<button class=\"ds-button-dark\" type=\"button\">Create my brief<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 12h15m-6-6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-button-dark{display:inline-flex;align-items:center;justify-content:center;gap:22px;min-height:56px;padding:15px 25px;border:1px solid var(--ink,#20251f);border-radius:8px;font:600 16px/1.35 Figtree,Arial,sans-serif;text-decoration:none;cursor:pointer;transition:background .18s ease,color .18s ease,transform .18s ease;background:var(--green,#144d43);color:var(--cream,#faf9ed);border-color:var(--green,#144d43)}.ds-button-dark:hover{background:var(--green-dark,#103f37);transform:translateY(-2px)}.ds-button-dark:focus-visible{outline:3px solid var(--focus,#775ba4);outline-offset:5px}.ds-button-dark svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;transition:transform .18s ease}.ds-button-dark:hover svg{transform:translateX(2px)}@media(prefers-reduced-motion:reduce){.ds-button-dark,.ds-button-dark svg{transition:none}}"
+    },
+    {
+      "name": "Outline action",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "A clear action with an outlined edge.",
+      "html": "<button class=\"ds-button-outline\" type=\"button\">Download brief<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 12h15m-6-6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-button-outline{display:inline-flex;align-items:center;justify-content:center;gap:22px;min-height:56px;padding:15px 25px;border:1px solid var(--ink,#20251f);border-radius:8px;font:600 16px/1.35 Figtree,Arial,sans-serif;text-decoration:none;cursor:pointer;transition:background .18s ease,color .18s ease,transform .18s ease;background:transparent;color:var(--ink,#20251f);border-color:var(--ink,#20251f)}.ds-button-outline:hover{background:#eee8ef;transform:translateY(-2px)}.ds-button-outline:focus-visible{outline:3px solid var(--focus,#775ba4);outline-offset:5px}.ds-button-outline svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;transition:transform .18s ease}.ds-button-outline:hover svg{transform:translateX(2px)}@media(prefers-reduced-motion:reduce){.ds-button-outline,.ds-button-outline svg{transition:none}}"
+    },
+    {
+      "name": "Text field",
+      "kind": "input",
+      "refersTo": "text-field",
+      "description": "A labeled field with visible keyboard focus.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-name\">Your name</label><input id=\"ds-name\" type=\"text\" placeholder=\"Your name\"></div>",
+      "css": ".ds-field{font-family:Figtree,Arial,sans-serif;color:var(--ink,#20251f);max-width:380px}.ds-field label{display:block;font-size:13px;font-weight:600;line-height:1.55;margin-bottom:7px}.ds-field input{width:100%;min-height:47px;border:1px solid #a3ac9a;background:#fffef5;padding:11px 12px;border-radius:5px;color:var(--ink,#20251f);font:14px/1.5 Figtree,Arial,sans-serif}.ds-field input::placeholder{color:#626958;opacity:1}.ds-field input:focus-visible{outline:3px solid var(--focus,#775ba4);outline-offset:2px}.ds-field input[aria-invalid=true]{border-color:var(--error,#9b2923)}@media(max-width:520px){.ds-field input{font-size:16px}}"
+    },
+    {
+      "name": "Goal choices",
+      "kind": "chip",
+      "refersTo": "goal-choice",
+      "description": "Outcome choices use a clear selected state.",
+      "html": "<div class=\"ds-choices\"><button class=\"ds-choice ds-choice-active\" type=\"button\" aria-pressed=\"true\">Grow revenue</button><button class=\"ds-choice\" type=\"button\" aria-pressed=\"false\">Improve operations</button></div>",
+      "css": ".ds-choices{display:flex;flex-wrap:wrap;gap:9px}.ds-choice{border:1px solid #8c9b88;padding:12px 16px;border-radius:6px;font:500 14px/1.55 Figtree,Arial,sans-serif;min-height:48px;background:transparent;color:var(--ink,#20251f);cursor:pointer;transition:background .18s ease,color .18s ease}.ds-choice:hover{background:#d2dfc9}.ds-choice-active{background:var(--green,#144d43);border-color:var(--green,#144d43);color:var(--cream,#faf9ed)}.ds-choice-active:hover{background:var(--green,#144d43)}.ds-choice:focus-visible{outline:3px solid var(--focus,#775ba4);outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-choice{transition:none}}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "description": "An outlined cream container holds brand text and links.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Example navigation\"><a class=\"ds-brand\" href=\"#\">Ruruma</a><div class=\"ds-links\"><a href=\"#solutions\">Solutions</a><a href=\"#work\">Our work</a><a href=\"#approach\">Approach</a></div></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;justify-content:space-between;gap:30px;padding:13px 24px;min-height:82px;border:1px solid var(--ink,#20251f);border-radius:16px;background:var(--cream,#faf9ed);color:var(--ink,#20251f);font-family:Figtree,Arial,sans-serif}.ds-brand{font-size:29px;font-weight:600;letter-spacing:-.055em;line-height:1;text-decoration:none;color:inherit}.ds-links{display:flex;gap:30px;font-size:15px;font-weight:500}.ds-links a{padding-block:12px;text-decoration:none;color:inherit}.ds-links a:hover{text-decoration:underline;text-underline-offset:5px}.ds-nav a:focus-visible{outline:3px solid var(--focus,#775ba4);outline-offset:5px}@media(max-width:800px){.ds-nav{align-items:start;flex-direction:column;gap:15px}.ds-links{width:100%;flex-direction:column;gap:0}.ds-links a{min-height:46px}}"
+    },
+    {
+      "name": "Result panel",
+      "kind": "card",
+      "refersTo": "result-panel",
+      "description": "A flat cream panel holds one scoped result.",
+      "html": "<article class=\"ds-result\"><h3>A faster first response</h3><p>One possible starting point</p><p>Find context. Draft a response. Flag what needs attention.</p><div class=\"ds-detail\"><div><h4>Measure</h4><p>Response time</p></div><div><h4>Connect</h4><p>Your support tools</p></div></div></article>",
+      "css": ".ds-result{padding:32px 34px;background:var(--cream,#faf9ed);color:var(--ink,#20251f);border-radius:16px;max-width:540px;font-family:Figtree,Arial,sans-serif}.ds-result h3{font-size:30px;letter-spacing:-.035em;font-weight:500;line-height:1.15;margin:0 0 14px;max-width:420px}.ds-result p{font-size:15px;line-height:1.55;color:var(--muted,#566052);margin:16px 0 0}.ds-detail{display:grid;grid-template-columns:1fr 1fr;gap:24px;border-top:1px solid var(--line,#c9cdbf);margin-top:24px}.ds-detail h4{font-size:13px;font-weight:600;margin:24px 0 10px}.ds-detail p{font-size:13px;margin:0}@media(max-width:520px){.ds-result{padding:25px 22px}.ds-result h3{font-size:29px}.ds-detail{gap:18px}}"
+    },
+    {
+      "name": "Disclosure list",
+      "kind": "custom",
+      "description": "A ruled list reveals service details.",
+      "html": "<div class=\"ds-disclosures\"><details><summary>AI strategy & opportunity design<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 5v14M5 12h14\"/></svg></summary><p>Workflow mapping, feasibility reviews, baseline metrics, and a pilot plan.</p></details><details><summary>Knowledge & document intelligence<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 5v14M5 12h14\"/></svg></summary><p>Search across internal knowledge and show answers with sources.</p></details></div>",
+      "css": ".ds-disclosures{border-top:1px solid var(--line,#c9cdbf);font-family:Figtree,Arial,sans-serif;color:var(--ink,#20251f);max-width:600px}.ds-disclosures details{border-bottom:1px solid var(--line,#c9cdbf)}.ds-disclosures summary{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:21px 0;cursor:pointer;font-size:16px;font-weight:500;line-height:1.55;list-style:none}.ds-disclosures summary::-webkit-details-marker{display:none}.ds-disclosures svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;transition:transform .18s ease}.ds-disclosures details[open] svg{transform:rotate(45deg)}.ds-disclosures p{font-size:15px;line-height:1.55;color:var(--muted,#566052);padding:0 25px 23px 0;margin:0}.ds-disclosures summary:focus-visible{outline:3px solid var(--focus,#775ba4);outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-disclosures svg{transition:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Ruruma Workroom",
+    "overview": "Ruruma puts practical work in view. Large serif statements introduce the offer. Clear interface text explains the choices and next action.\n\nCream gives the page a quiet base. Forest green holds workflow diagrams and delivery steps. Lavender marks actions and the brief section. Broad curves connect these fields to the supplied rosette logo.",
+    "keyCharacteristics": [
+      "Large serif headlines with selective italic emphasis.",
+      "Flat color fields with generous space.",
+      "Outlined controls and clear selected states.",
+      "Work diagrams and paper illustrations with useful detail."
+    ],
+    "rules": [
+      {
+        "name": "The Field Rule",
+        "body": "Use broad color fields to divide major sections. Keep controls distinct from their surrounding field.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Voices Rule",
+        "body": "Use the serif family for major statements and project names. Use the sans-serif family for controls and detailed explanations.",
+        "section": "typography"
+      },
+      {
+        "name": "The Paper Rule",
+        "body": "Keep interface panels flat. Reserve the sheet shadow for the paper illustrations that explain founder work.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do use the supplied rosette for the brand mark.",
+      "Do pair serif statements with sans-serif controls and explanations.",
+      "Do separate major sections with the established color fields and broad upper curves.",
+      "Do keep selected choices, field errors, and keyboard focus visible.",
+      "Do preserve the vertical workflow and single-column forms on small screens.",
+      "Do respect reduced-motion preferences."
+    ],
+    "donts": [
+      "Do not replace the supplied mark with a text glyph or a new icon.",
+      "Do not apply the paper illustration shadow to ordinary interface panels.",
+      "Do not turn metadata into decorative labels above section or project titles.",
+      "Do not treat the small text inside paper illustrations as a general text-size scale.",
+      "Do not add the unused lilac and blue custom properties to the active palette without a visible use."
+    ]
+  }
+}

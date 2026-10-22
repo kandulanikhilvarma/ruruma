@@ -1,0 +1,5 @@
+@font-face{font-family:'EB Garamond';font-style:italic;font-weight:400;font-display:swap;src:url('./eb-garamond-italic-400.ttf') format('truetype');}
+@font-face{font-family:'EB Garamond';font-style:normal;font-weight:400;font-display:swap;src:url('./eb-garamond-normal-400.ttf') format('truetype');}
+@font-face{font-family:'Figtree';font-style:normal;font-weight:400;font-display:swap;src:url('./figtree-normal-400.ttf') format('truetype');}
+@font-face{font-family:'Figtree';font-style:normal;font-weight:600;font-display:swap;src:url('./figtree-normal-600.ttf') format('truetype');}
+@font-face{font-family:'Figtree';font-style:normal;font-weight:700;font-display:swap;src:url('./figtree-normal-700.ttf') format('truetype');}
